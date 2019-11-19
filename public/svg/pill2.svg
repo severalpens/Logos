@@ -1,0 +1,9 @@
+<svg  viewBox="0 0 182 60">
+  <title>pill2</title>
+  <g>
+    <rect x="1.5" y="1.5" width="182" height="50" rx="15" style="fill: #29abe2;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"></rect>
+    <text transform="translate(32 30)" style="font-size: 20px;font-family: MyriadPro-Regular, Myriad Pro">
+      <tspan>Lorem Ipsum</tspan>
+    </text>
+  </g>
+</svg>
